@@ -1,0 +1,35 @@
+.myfont1{
+    font-size: 16px;
+    color: #808080;
+}
+.myfont2{
+    font:12px "microsoft yahei";
+    color: #666;
+}
+.myfont2:hover{
+    text-decoration: none;
+    color: #666;
+}
+.myfont3{
+    font-size: 24px;
+    color: #0aa1ed;
+}
+.myfont4{
+    font-size: 32px;
+    color: #fff;
+}
+.myfont5{
+    font-size: 20px;
+    color: #fff;
+}
+.mybg-color{
+    background-image: linear-gradient(to bottom, #f0f0f0 0%, #e0e0e0 100%);
+}
+.mybg-color2{
+    background-image: linear-gradient(to bottom, #bbb 0%, #b3b3b3 100%);
+}
+.myinput{
+    width: 10%;
+    border:0;
+    outline: 0;
+}

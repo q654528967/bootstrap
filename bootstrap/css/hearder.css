@@ -1,0 +1,30 @@
+div{
+    font: 12px "simhei", Arial, Helvetica, sans-serif;
+}
+.breadcrumb-item + .breadcrumb-item::before{
+    content: "|";
+    color:#bbbbbb;
+}
+.breadcrumb li{
+    flex-wrap: nowrap;
+}
+.input-group{
+    width: 80%;
+}
+.breadcrumb-item>a{
+    color: #808080;
+    font: 16px "simhei", Arial, Helvetica, sans-serif;
+}
+.breadcrumb-item>a:active{
+    color:#0aa1ed;
+}
+.nav-item>a{
+    font: 16px "simhei", Arial, Helvetica, sans-serif;
+    color: #ccc;
+}
+.breadcrumb{
+    background-color: transparent;
+}
+.form-control {
+    border-radius:0px;
+}

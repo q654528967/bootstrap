@@ -1,0 +1,13 @@
+.breadcrumb-item + .breadcrumb-item::before{
+    content: ">";
+}
+.myfont2{
+    font-size: 12px;
+    color: #666;
+}
+a{
+    color: #666;
+}
+#demo img{
+    width: 100%;
+}
