@@ -4,17 +4,11 @@ body{
     font: 12px "simhei", Arial, Helvetica, sans-serif;
 }
 @media screen and (min-width: 992px){
-    .myheader{
-        
-    }
     .myfooter{
        min-height: 50vh;
     }
 }
 @media screen and (max-width: 991px){
-    .myheader{
-        
-    }
     .myfooter{
         min-height: 25vh;
     }
